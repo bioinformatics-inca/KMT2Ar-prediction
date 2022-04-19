@@ -199,7 +199,7 @@ from sklearn.ensemble import RandomForestClassifier
 # define pipeline
 
 rf= RandomForestClassifier(random_state=42)
-K-fold Cross-Validation
+#K-fold Cross-Validation
 cv = RepeatedStratifiedKFold(n_splits=3, n_repeats=10, random_state=42)
 
 # Number of trees in random forest
