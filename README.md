@@ -26,3 +26,8 @@ Analysis of the developed models (confusion matrix; metrics; ROC curve; Shap val
 
 ---------------------------------------------------------------------------------------------------------
 
+Development by Cristiane Esteves
+Master's student in Oncology/Bioinformatic
+Bioinformatics and Computational Biology Laboratory (LBBC-INCA)
+Brazilian National Cancer Institute (INCA-RJ)
+
