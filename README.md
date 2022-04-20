@@ -25,9 +25,8 @@ Development of the models using 247 genes selected by Borutapy.
 Analysis of the developed models (confusion matrix; metrics; ROC curve; Shap values).
 
 ---------------------------------------------------------------------------------------------------------
-
-Development by Cristiane Esteves
-Master's student in Oncology/Bioinformatic
-Bioinformatics and Computational Biology Laboratory (LBBC-INCA)
-Brazilian National Cancer Institute (INCA-RJ)
-
+<sub><sup>
+Development by Cristiane Esteves -
+Master's student in Oncology/Bioinformatic; 
+Bioinformatics and Computational Biology Laboratory (LBBC-INCA);
+Brazilian National Cancer Institute (INCA-RJ) </sup></sub>
