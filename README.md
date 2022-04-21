@@ -1,5 +1,7 @@
 # Novel diagnostic and therapeutic options for KMT2A-rearranged acute leukemias
 
+[![DOI](https://zenodo.org/badge/483377258.svg)](https://zenodo.org/badge/latestdoi/483377258)
+
 The KMT2A (MLL) gene rearrangements (KMT2A-r) are associated with a diverse spectrum of acute
 leukemias. Although most KMT2A-r are restricted to nine partner genes, we have recently revealed
 that KMT2A-USP2 fusions are often missed during FISH screening of these genetic alterations.
