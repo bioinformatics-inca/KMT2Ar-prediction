@@ -16,6 +16,12 @@ various types of acute leukemia.
 
 ## Scripts from the best models
 
+`Batch_effect.R` & `Analysis_correlation.R`
+
+First, we integrate the TARGET, Beat AML and EGA datasets and then remove
+the batch effect using the study variable (dataset origin). After that, 
+we remove the variables with high correlation (> 90%).
+
 `KMT2Ar-preProcess&Boruta.ipynb`
 
 Variance Analysis and feature selection with Borutapy. 247 genes were considered 
