@@ -36,6 +36,7 @@ Development of the models using 247 genes selected by Borutapy.
 Analysis of the developed models (confusion matrix; metrics; ROC curve; Shap values).
 
 ## Datasets
+The RData file - `Dataset_ML_KMT2Ar.RData` - available only contains the TARGET and Beat-AML data due to the control of the others (EGA studies).
 Downloading and obtaining data are described in the materials and methods section of the paper.
 
 ![This is an image](datasets.svg)
