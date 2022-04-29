@@ -33,7 +33,7 @@ from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSe
 
 
 #Reload dataset cleaned
-dataset = pd.read_csv("~/biomarcprogml_ov/results/Leukemia/version2022/leukemia247.csv", index_col=0)
+dataset = pd.read_csv("leukemia247.csv", index_col=0)
 df = pd.DataFrame(dataset)
 df.shape
 
