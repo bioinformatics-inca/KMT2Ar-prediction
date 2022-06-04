@@ -24,12 +24,12 @@ we remove the variables with high correlation (> 90%).
 
 `KMT2Ar-preProcess&Boruta.ipynb`
 
-Variance Analysis and feature selection with Borutapy. 247 genes were considered 
+Variance Analysis and feature selection with BorutaPy. 247 genes were considered 
 important for predicting the KMT2A gene rearrangement.
 
 `KMT2Ar-Development-247genes.py`
 
-Development of the models using 247 genes selected by Borutapy.
+Development of the models using 247 genes selected by BorutaPy.
 
 `KMT2Ar-Model_Analysis-247Genes.ipynb`
 
