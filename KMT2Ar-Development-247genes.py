@@ -1,6 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+#"""
+#@authors: LBBC team (https://sites.google.com/view/bioinformaticainca-en/home-en)
+#Cristiane Esteves
+#"""
+
 # In[ ]:
 
 
