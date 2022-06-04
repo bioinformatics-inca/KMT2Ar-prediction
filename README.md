@@ -48,4 +48,5 @@ for KMT2A-Rearranged Acute Leukemias. Front. Pharmacol. 13:749472. doi: 10.3389/
 ---------------------------------------------------------------------------------------------------------
 <sub><sup>
 Bioinformatics and Computational Biology Laboratory (LBBC-INCA);
-Brazilian National Cancer Institute (INCA-RJ) </sup></sub>
+Brazilian National Cancer Institute (INCA-RJ) | LBBC team (https://sites.google.com/view/bioinformaticainca-en/home-en)
+</sup></sub>
