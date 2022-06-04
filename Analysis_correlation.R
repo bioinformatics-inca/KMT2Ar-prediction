@@ -1,3 +1,9 @@
+#"""
+#@authors: LBBC team (https://sites.google.com/view/bioinformaticainca-en/home-en)
+#Cristiane Esteves
+#"""
+
+
 load("Dataset_ML_KMT2Ar.RData")
 
 table(df_final$Study)
