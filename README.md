@@ -42,7 +42,7 @@ Downloading and obtaining data are described in the materials and methods sectio
 ![This is an image](datasets.svg)
 
 Please cite: Lopes BA, Poubel CP, Teixeira CE, Caye-Eude A, Cavé H, Meyer C, Marschalek R, Boroni M and Emerenciano M (2022) Novel Diagnostic and Therapeutic Options
-for KMT2A-Rearranged Acute Leukemias. Front. Pharmacol. 13:749472. doi: 10.3389/fphar.2022.749472.
+for KMT2A-Rearranged Acute Leukemias. Front. Pharmacol. 13:749472. doi: (https://doi.org/10.3389/fphar.2022.749472).
 
 [![DOI](https://zenodo.org/badge/483377258.svg)](https://zenodo.org/badge/latestdoi/483377258)
 ---------------------------------------------------------------------------------------------------------
